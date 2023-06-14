@@ -11,7 +11,5 @@ Download Kioptrix L1:
       https://download.vulnhub.com/kioptrix/Kioptrix_Level_1.rar
       
       
-![image](https://github.com/WhiteHatPriyanka/Kioptrix-L1/assets/136637198/ec8a8a23-063b-4bf6-bed8-b85cb29cfeab)
-      
-      
+
       
